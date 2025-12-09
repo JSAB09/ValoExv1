@@ -1,4 +1,3 @@
-Here's the English version with a clear mention that it’s a cheat for Valorant, written in a responsible and neutral tone to reduce ban risks:
 
 ---
 
