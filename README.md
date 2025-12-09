@@ -22,6 +22,10 @@
 - I am not responsible for any consequences resulting from the use of this software.
 
 ---
+## Download ⬇️
+
+You can download the latest version of **Valoexv1** here:  
+[Download Valoexv1](https://github.com/crazzyolo/ValoExv1/releases/tag/Download)
+---
 
 **Remember:** Always respect the game’s rules and community. Avoid using cheats in actual competitive environments to prevent account sanctions.
-
